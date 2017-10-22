@@ -1,3 +1,0 @@
-pkg30daysofcodeday13.Book
-pkg30daysofcodeday13.Solution
-pkg30daysofcodeday13.MyBook
